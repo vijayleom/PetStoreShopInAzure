@@ -1,0 +1,59 @@
+2023-09-03 17:09:07.432+02:00 INFO  c.m.applicationinsights.agent - Application Insights Java Agent 3.4.15 started successfully (PID 73118, JVM running for 2.312 s)
+2023-09-03 17:09:07.437+02:00 INFO  c.m.applicationinsights.agent - Java version: 11.0.16.1, vendor: Homebrew, home: /opt/homebrew/Cellar/openjdk@11/11.0.16.1_1/libexec/openjdk.jdk/Contents/Home
+2023-09-03 17:11:02.244+02:00 INFO  c.m.applicationinsights.agent - Application Insights Java Agent 3.4.15 started successfully (PID 73799, JVM running for 2.221 s)
+2023-09-03 17:11:02.250+02:00 INFO  c.m.applicationinsights.agent - Java version: 11.0.16.1, vendor: Homebrew, home: /opt/homebrew/Cellar/openjdk@11/11.0.16.1_1/libexec/openjdk.jdk/Contents/Home
+2023-09-03 17:11:25.991+02:00 INFO  c.m.applicationinsights.agent - Application Insights Java Agent 3.4.15 started successfully (PID 73875, JVM running for 2.144 s)
+2023-09-03 17:11:25.997+02:00 INFO  c.m.applicationinsights.agent - Java version: 11.0.16.1, vendor: Homebrew, home: /opt/homebrew/Cellar/openjdk@11/11.0.16.1_1/libexec/openjdk.jdk/Contents/Home
+2023-09-03 17:15:08.945+02:00 INFO  c.m.applicationinsights.agent - Application Insights Java Agent 3.4.15 started successfully (PID 77222, JVM running for 2.251 s)
+2023-09-03 17:15:08.952+02:00 INFO  c.m.applicationinsights.agent - Java version: 11.0.16.1, vendor: Homebrew, home: /opt/homebrew/Cellar/openjdk@11/11.0.16.1_1/libexec/openjdk.jdk/Contents/Home
+2023-09-03 17:18:43.801+02:00 INFO  c.m.applicationinsights.agent - Application Insights Java Agent 3.4.15 started successfully (PID 77882, JVM running for 2.165 s)
+2023-09-03 17:18:43.807+02:00 INFO  c.m.applicationinsights.agent - Java version: 11.0.16.1, vendor: Homebrew, home: /opt/homebrew/Cellar/openjdk@11/11.0.16.1_1/libexec/openjdk.jdk/Contents/Home
+2023-09-03 17:29:24.117+02:00 INFO  c.m.applicationinsights.agent - Application Insights Java Agent 3.4.15 started successfully (PID 79906, JVM running for 2.151 s)
+2023-09-03 17:29:24.123+02:00 INFO  c.m.applicationinsights.agent - Java version: 11.0.16.1, vendor: Homebrew, home: /opt/homebrew/Cellar/openjdk@11/11.0.16.1_1/libexec/openjdk.jdk/Contents/Home
+2023-09-03 17:33:26.215+02:00 INFO  c.m.applicationinsights.agent - Application Insights Java Agent 3.4.15 started successfully (PID 80885, JVM running for 2.425 s)
+2023-09-03 17:33:26.221+02:00 INFO  c.m.applicationinsights.agent - Java version: 11.0.16.1, vendor: Homebrew, home: /opt/homebrew/Cellar/openjdk@11/11.0.16.1_1/libexec/openjdk.jdk/Contents/Home
+2023-09-03 20:39:04.827+02:00 INFO  c.m.applicationinsights.agent - Application Insights Java Agent 3.4.15 started successfully (PID 92988, JVM running for 2.189 s)
+2023-09-03 20:39:04.832+02:00 INFO  c.m.applicationinsights.agent - Java version: 11.0.16.1, vendor: Homebrew, home: /opt/homebrew/Cellar/openjdk@11/11.0.16.1_1/libexec/openjdk.jdk/Contents/Home
+2023-09-03 20:59:54.670+02:00 INFO  c.m.applicationinsights.agent - Application Insights Java Agent 3.4.15 started successfully (PID 96925, JVM running for 2.178 s)
+2023-09-03 20:59:54.676+02:00 INFO  c.m.applicationinsights.agent - Java version: 11.0.16.1, vendor: Homebrew, home: /opt/homebrew/Cellar/openjdk@11/11.0.16.1_1/libexec/openjdk.jdk/Contents/Home
+2023-09-03 22:01:22.332+02:00 INFO  c.m.applicationinsights.agent - Application Insights Java Agent 3.4.15 started successfully (PID 2501, JVM running for 2.308 s)
+2023-09-03 22:01:22.339+02:00 INFO  c.m.applicationinsights.agent - Java version: 11.0.16.1, vendor: Homebrew, home: /opt/homebrew/Cellar/openjdk@11/11.0.16.1_1/libexec/openjdk.jdk/Contents/Home
+2023-09-03 22:07:06.842+02:00 INFO  c.m.applicationinsights.agent - Application Insights Java Agent 3.4.15 started successfully (PID 3581, JVM running for 2.267 s)
+2023-09-03 22:07:06.847+02:00 INFO  c.m.applicationinsights.agent - Java version: 11.0.16.1, vendor: Homebrew, home: /opt/homebrew/Cellar/openjdk@11/11.0.16.1_1/libexec/openjdk.jdk/Contents/Home
+2023-09-03 22:14:22.341+02:00 INFO  c.m.applicationinsights.agent - Application Insights Java Agent 3.4.15 started successfully (PID 5130, JVM running for 2.372 s)
+2023-09-03 22:14:22.351+02:00 INFO  c.m.applicationinsights.agent - Java version: 11.0.16.1, vendor: Homebrew, home: /opt/homebrew/Cellar/openjdk@11/11.0.16.1_1/libexec/openjdk.jdk/Contents/Home
+2023-09-04 17:11:53.868+02:00 INFO  c.m.applicationinsights.agent - Application Insights Java Agent 3.4.15 started successfully (PID 16149, JVM running for 2.213 s)
+2023-09-04 17:11:53.877+02:00 INFO  c.m.applicationinsights.agent - Java version: 11.0.16.1, vendor: Homebrew, home: /opt/homebrew/Cellar/openjdk@11/11.0.16.1_1/libexec/openjdk.jdk/Contents/Home
+2023-09-04 17:16:41.720+02:00 INFO  c.m.applicationinsights.agent - Application Insights Java Agent 3.4.15 started successfully (PID 17406, JVM running for 2.141 s)
+2023-09-04 17:16:41.728+02:00 INFO  c.m.applicationinsights.agent - Java version: 11.0.16.1, vendor: Homebrew, home: /opt/homebrew/Cellar/openjdk@11/11.0.16.1_1/libexec/openjdk.jdk/Contents/Home
+2023-09-04 18:00:04.987+02:00 WARN  c.a.m.o.e.i.q.QuickPulsePingSender - Pinging live metrics endpoint: java.io.IOException: Operation timed out (https://polandcentral.livediagnostics.monitor.azure.com/QuickPulseService.svc) (future warnings will be aggregated and logged once every 5 minutes)
+reactor.core.Exceptions$ReactiveException: java.io.IOException: Operation timed out
+	at reactor.core.Exceptions.propagate(Exceptions.java:408)
+	at reactor.core.publisher.BlockingSingleSubscriber.blockingGet(BlockingSingleSubscriber.java:101)
+	at reactor.core.publisher.Mono.block(Mono.java:1712)
+	at com.azure.monitor.opentelemetry.exporter.implementation.quickpulse.QuickPulsePingSender.ping(QuickPulsePingSender.java:102)
+	at com.azure.monitor.opentelemetry.exporter.implementation.quickpulse.QuickPulseCoordinator.ping(QuickPulseCoordinator.java:100)
+	at com.azure.monitor.opentelemetry.exporter.implementation.quickpulse.QuickPulseCoordinator.run(QuickPulseCoordinator.java:53)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+	Suppressed: java.lang.Exception: #block terminated with an error
+		at reactor.core.publisher.BlockingSingleSubscriber.blockingGet(BlockingSingleSubscriber.java:103)
+		... 5 common frames omitted
+Caused by: java.io.IOException: Operation timed out
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:233)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:356)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:256)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	... 1 common frames omitted

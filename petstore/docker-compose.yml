@@ -1,0 +1,68 @@
+version: "3.9"
+
+services:
+
+  petstoreapp:
+    build:
+      context: ./petstoreapp
+    ports:
+      - "8080:8080"
+    environment:
+      - PETSTOREAPP_SERVER_PORT=8080
+      - PETSTOREPETSERVICE_URL=http://petstorepetservice:8081
+      - PETSTOREPRODUCTSERVICE_URL=http://petstoreproductservice:8082
+      - PETSTOREORDERSERVICE_URL=http://petstoreorderservice:8083
+      - AzureWebJobsServiceBus=Endpoint=sb://leo-order-bus-v001.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=V6V2+tWfN+oJ/wNQwHq6oWVVnBphjKB2K+ASbO/5ijA=
+      - AzureServiceBusQueue=orderqueue
+      - AzureServiceBusUrl=https://leo-order-bus-v001.servicebus.windows.net
+    networks:
+      - petstorebridge
+
+  petstorepetservice:
+    build:
+      context: ./petstorepetservice
+    ports:
+      - "8081:8081"
+    environment:
+      - PETSTOREPETSERVICE_SERVER_PORT=8081
+      - APPSETTING_KEY_VAULT_NAME=petstorekeyvault
+      - APPSETTING_TENANT_ID=b41b72d0-4e9f-4c26-8a69-f949f367c91d
+      - APPSETTING_CLIENT_ID=e867d17b-05b9-4721-a806-facc0e55bdff
+      - APPSETTING_CLIENT_SECRET=l4E8Q~xQzi6LNBQGz4lG-glAj8EWUkdmT92oAcU9
+      - APPSETTING_DB_DRIVER_CLASS=org.postgresql.Driver
+    networks:
+      - petstorebridge
+
+  petstoreproductservice:
+    build:
+      context: ./petstoreproductservice
+    ports:
+      - "8082:8082"
+    environment:
+      - PETSTOREPRODUCTSERVICE_SERVER_PORT=8082
+      - APPSETTING_KEY_VAULT_NAME=petstorekeyvault
+      - APPSETTING_TENANT_ID=b41b72d0-4e9f-4c26-8a69-f949f367c91d
+      - APPSETTING_CLIENT_ID=e867d17b-05b9-4721-a806-facc0e55bdff
+      - APPSETTING_CLIENT_SECRET=l4E8Q~xQzi6LNBQGz4lG-glAj8EWUkdmT92oAcU9
+      - APPSETTING_DB_DRIVER_CLASS=org.postgresql.Driver
+    networks:
+      - petstorebridge
+
+  petstoreorderservice:
+    build:
+      context: ./petstoreorderservice
+    ports:
+      - "8083:8083"
+    environment:
+      - APPSETTING_KEY_VAULT_NAME=petstorekeyvault
+      - APPSETTING_TENANT_ID=b41b72d0-4e9f-4c26-8a69-f949f367c91d
+      - APPSETTING_CLIENT_ID=e867d17b-05b9-4721-a806-facc0e55bdff
+      - APPSETTING_CLIENT_SECRET=l4E8Q~xQzi6LNBQGz4lG-glAj8EWUkdmT92oAcU9
+      - PETSTOREORDERSERVICE_SERVER_PORT=8083
+      - PETSTOREPRODUCTSERVICE_URL=http://petstoreproductservice:8082
+    networks:
+      - petstorebridge
+
+networks:
+  petstorebridge:
+    driver: bridge

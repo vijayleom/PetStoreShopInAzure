@@ -1,0 +1,24 @@
+2023-09-05 00:44:42.451+02:00 INFO  c.m.applicationinsights.agent - Application Insights Java Agent 3.4.15 started successfully (PID 94460, JVM running for 2.407 s)
+2023-09-05 00:44:42.458+02:00 INFO  c.m.applicationinsights.agent - Java version: 11.0.16.1, vendor: Homebrew, home: /opt/homebrew/Cellar/openjdk@11/11.0.16.1_1/libexec/openjdk.jdk/Contents/Home
+2023-09-05 00:48:41.060+02:00 INFO  c.m.applicationinsights.agent - Application Insights Java Agent 3.4.15 started successfully (PID 97734, JVM running for 2.236 s)
+2023-09-05 00:48:41.069+02:00 INFO  c.m.applicationinsights.agent - Java version: 11.0.16.1, vendor: Homebrew, home: /opt/homebrew/Cellar/openjdk@11/11.0.16.1_1/libexec/openjdk.jdk/Contents/Home
+2023-09-05 00:48:57.671+02:00 INFO  c.m.applicationinsights.agent - Application Insights Java Agent 3.4.15 started successfully (PID 97818, JVM running for 2.139 s)
+2023-09-05 00:48:57.678+02:00 INFO  c.m.applicationinsights.agent - Java version: 11.0.16.1, vendor: Homebrew, home: /opt/homebrew/Cellar/openjdk@11/11.0.16.1_1/libexec/openjdk.jdk/Contents/Home
+2023-09-05 00:52:49.940+02:00 INFO  c.m.applicationinsights.agent - Application Insights Java Agent 3.4.15 started successfully (PID 98800, JVM running for 2.256 s)
+2023-09-05 00:52:49.945+02:00 INFO  c.m.applicationinsights.agent - Java version: 11.0.16.1, vendor: Homebrew, home: /opt/homebrew/Cellar/openjdk@11/11.0.16.1_1/libexec/openjdk.jdk/Contents/Home
+2023-09-05 00:54:46.292+02:00 INFO  c.m.applicationinsights.agent - Application Insights Java Agent 3.4.15 started successfully (PID 99117, JVM running for 2.454 s)
+2023-09-05 00:54:46.300+02:00 INFO  c.m.applicationinsights.agent - Java version: 11.0.16.1, vendor: Homebrew, home: /opt/homebrew/Cellar/openjdk@11/11.0.16.1_1/libexec/openjdk.jdk/Contents/Home
+2023-09-05 00:57:41.615+02:00 INFO  c.m.applicationinsights.agent - Application Insights Java Agent 3.4.15 started successfully (PID 99694, JVM running for 2.195 s)
+2023-09-05 00:57:41.621+02:00 INFO  c.m.applicationinsights.agent - Java version: 11.0.16.1, vendor: Homebrew, home: /opt/homebrew/Cellar/openjdk@11/11.0.16.1_1/libexec/openjdk.jdk/Contents/Home
+2023-09-05 01:00:07.443+02:00 INFO  c.m.applicationinsights.agent - Application Insights Java Agent 3.4.15 started successfully (PID 238, JVM running for 2.363 s)
+2023-09-05 01:00:07.450+02:00 INFO  c.m.applicationinsights.agent - Java version: 11.0.16.1, vendor: Homebrew, home: /opt/homebrew/Cellar/openjdk@11/11.0.16.1_1/libexec/openjdk.jdk/Contents/Home
+2023-09-05 01:01:29.097+02:00 INFO  c.m.applicationinsights.agent - Application Insights Java Agent 3.4.15 started successfully (PID 904, JVM running for 2.132 s)
+2023-09-05 01:01:29.103+02:00 INFO  c.m.applicationinsights.agent - Java version: 11.0.16.1, vendor: Homebrew, home: /opt/homebrew/Cellar/openjdk@11/11.0.16.1_1/libexec/openjdk.jdk/Contents/Home
+2023-09-05 01:03:29.434+02:00 INFO  c.m.applicationinsights.agent - Application Insights Java Agent 3.4.15 started successfully (PID 1269, JVM running for 2.202 s)
+2023-09-05 01:03:29.440+02:00 INFO  c.m.applicationinsights.agent - Java version: 11.0.16.1, vendor: Homebrew, home: /opt/homebrew/Cellar/openjdk@11/11.0.16.1_1/libexec/openjdk.jdk/Contents/Home
+2023-09-05 01:09:50.618+02:00 INFO  c.m.applicationinsights.agent - Application Insights Java Agent 3.4.15 started successfully (PID 2523, JVM running for 2.225 s)
+2023-09-05 01:09:50.625+02:00 INFO  c.m.applicationinsights.agent - Java version: 11.0.16.1, vendor: Homebrew, home: /opt/homebrew/Cellar/openjdk@11/11.0.16.1_1/libexec/openjdk.jdk/Contents/Home
+2023-09-05 01:18:45.940+02:00 INFO  c.m.applicationinsights.agent - Application Insights Java Agent 3.4.15 started successfully (PID 4361, JVM running for 2.468 s)
+2023-09-05 01:18:45.946+02:00 INFO  c.m.applicationinsights.agent - Java version: 11.0.16.1, vendor: Homebrew, home: /opt/homebrew/Cellar/openjdk@11/11.0.16.1_1/libexec/openjdk.jdk/Contents/Home
+2023-09-05 01:19:32.255+02:00 INFO  c.m.applicationinsights.agent - Application Insights Java Agent 3.4.15 started successfully (PID 4505, JVM running for 2.401 s)
+2023-09-05 01:19:32.265+02:00 INFO  c.m.applicationinsights.agent - Java version: 11.0.16.1, vendor: Homebrew, home: /opt/homebrew/Cellar/openjdk@11/11.0.16.1_1/libexec/openjdk.jdk/Contents/Home
