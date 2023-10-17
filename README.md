@@ -1,4 +1,4 @@
-# Pet Store Application for CloudX Java Azure Dev Course
+# Pet Store Application for efficient Use of Azure Resource (Example Code)
 
 [Azure Configuration & Screens Workflow](Configurations_AND_Screens.pdf)
 
