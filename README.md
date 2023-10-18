@@ -24,8 +24,8 @@ Before proceeding, ensure you have the Docker installed on your system.
 Open a terminal or command prompt, and clone the PetStore application repository to your local machine:
 
 ```bash
-git clone https://git.epam.com/epm-cdp/cloudx-assosiate-ms-azure-developer/cloudx-java-azure-dev.git
-cd cloudx-java-azure-dev/petstore
+git clone https://github.com/vijayleom/PetStoreShopInAzure.git
+cd PetStoreShopInAzure/petstore
 ```
 
 ### Step 2: Verify docker-compose.yml
